@@ -11,4 +11,3 @@ WHERE DATEDIFF('2019-07-27',activity_date) <30
 GROUP BY activity_date;
 
 -- WRONG TEST CASE FOR THIS QUESTION
-
